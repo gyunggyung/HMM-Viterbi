@@ -11,5 +11,4 @@
 
  "비터비 경로"와 "비터비 알고리즘"은 확률과 관련된 극대화 문제의 동적 계획법 알고리즘의 표준 용어가 되었다. 예를 들어 통계적 파싱 분야에서 문맥으로부터 자유로운, 가장 가능성 높은 단일 유도체 문자열을 찾아내는 데 사용되는 동적 계획법 알고리즘은 "비터비 파스(Viterbi Parse)"라고 부른다.
 
-> [위키백과](https://ko.wikipedia.org/wiki/%EB%B9%84%ED%84%B0%EB%B9%84_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)  
-> [블로그](https://hipgyung.tistory.com/95)
+> [위키백과](https://ko.wikipedia.org/wiki/%EB%B9%84%ED%84%B0%EB%B9%84_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98), [블로그](https://hipgyung.tistory.com/95)
